@@ -1,6 +1,6 @@
 ---
 title: "Predictions using the Weight Lifting Exercises Dataset"
-author: "Yash Joshi"
+author: "Yash  Joshi"
 date: "2 Jan 2018"
 output: 
   html_document:
